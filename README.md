@@ -1,5 +1,9 @@
 # book
 
+Rebased from xjwlab to RasHerlo.
+
+Further forked to andreagudik-blip, Center-for-Translational-Neuroscience and runewberg from there.
+
 ## Requirements
 
 This code is written in Python 2.7 and requires
